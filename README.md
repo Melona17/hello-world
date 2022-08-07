@@ -1,2 +1,2 @@
 # hello-world
-# Another repository of a girl passionate for Data Science
+Just another repository
